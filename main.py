@@ -97,4 +97,8 @@ def about(message):
     
     bot.send_message(message.chat.id, "I am ..... bot")
 
+
+
+
+# kod yozildi yangilandi
 bot.infinity_polling()
